@@ -158,3 +158,8 @@ input:checked + .slider:before {
     align-items: end;
   }
 }
+@media (max-width: 400px) {
+  iframe {
+    height: 300px;
+  }
+}
